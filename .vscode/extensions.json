@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint" /* Important, Integrates ESLint into VS Code. */,
+    "EditorConfig.EditorConfig" /* Important, to normalize editor settings */,
+    "esbenp.prettier-vscode" /* Important, better code formatter :) */,
+    "streetsidesoftware.code-spell-checker" /* Must install, fix/understand typo in codebase */,
+    "mikestead.dotenv" /* highlight .env file and enhance more readability */,
+    "vscode-icons-team.vscode-icons" /* icons for files/folder */
+  ]
+}
