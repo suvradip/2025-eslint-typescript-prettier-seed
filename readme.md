@@ -1,4 +1,4 @@
-# Peer Project
+# Seed: TypeScript + Eslint + prettier
 
 This project is a TypeScript setup with Prettier and ESLint integration.
 
